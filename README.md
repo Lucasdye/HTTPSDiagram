@@ -2,7 +2,8 @@
 This repository serves a pedagogic intention for understanding how the HTTPS communication works
 
 ## SSL/TLS server certificate creation 
-![TLS SSLCertificateCreation](https://github.com/user-attachments/assets/e1a32a6d-dbd1-493f-b39c-0fa3e074258c)
+![TLS SSLOverview3](https://github.com/user-attachments/assets/afbf0ce7-f804-452a-b72f-a457780b9537)
+
 
 
 ## HTTPS communication process
